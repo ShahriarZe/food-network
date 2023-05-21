@@ -1,0 +1,25 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+span{
+    color:rgb(66, 162, 241);
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin: 20px;
+}
+.Header{
+    font-size: 50px;
+}
+.half-width img{
+    width: 75%;
+    margin-left: 80px;
+}
+.top{
+    background-image: url(images/blue-bg.jpg);
+    background-repeat: no-repeat;
+    
+}
