@@ -1,99 +1,102 @@
-    body{
-        font-family: 'Poppins', sans-serif;
-        margin: 0;
-    }
-    span{
-        color:rgb(66, 162, 241);
-    }
-    section{
-        display: flex;
-    }
-    .half-width{
-        width: 50%;
-        margin: 20px;
-    }
-    .Header{
-        font-size: 50px;
-    }
-    .half-width img{
-        width: 75%;
-        margin-left: 80px;
-    }
-    .top{
-        display: flex;
-        background-image: url(images/blue-bg.jpg);
-        background-repeat: no-repeat;
-    }
-    .order{
-        text-decoration: none;
-        background-image: linear-gradient(dodgerblue,deepskyblue);
-        border-radius: 10px;
-        font-weight: 400;
-        padding: 10px 40px;
-        color: white;
-        
-    }
-    .food{
-        font-size: 30px;
-        color: black;
-    }
-    .middle img{
-        width: 75%;
-    }
-    .meet{
-        color: crimson;
-    }
-    .nutrition{
-        text-decoration: none;
-        background-image: linear-gradient(rgba(231, 9, 53, 0.915),red);
-        border-radius: 10px;
-        font-weight: 400;
-        padding: 10px 40px;
-        color: white;
-    }
-    .lady img{
-        width: 130%;
-    }
-    .middle{
-        background-image: url(images/red-bg.jpg);
-        background-repeat: no-repeat;
-        background-position: right;
-    }
-    .recepie{
-        display: flex;
-        width: 40%;
-        margin-right: 5%;
-        margin-left: 5%;
-        padding: 20px;
-        box-shadow: 20px 20px 40px gray;
-        border-radius: 20px;
-        
-    }
-    .recepie img{
-        width: 30%
-        height 30%;
-    }
-    .recepie{
-        display: flex;
-        width: 40%;
-        margin-right: 5%;
-        margin-left: 5%;
-        padding: 20px;
-        box-shadow: 20px 20px 40px gray;
-        border-radius: 20px;
-         }
-         .recom{
-            text-align: center;
-         }
-         #veg{
-            border-left: 10px solid crimson;
-         }
-         #salad{
-            border-left: 10px solid dodgerblue;
-         }
-         footer{
-            text-align: center;
-            font-weight: 700;
-            margin-top: 50px;
-        }
-         
+            body{
+                font-family: 'Poppins', sans-serif;
+                margin: 0;
+            }
+            span{
+                color:rgb(66, 162, 241);
+            }
+            section{
+                display: flex;
+            }
+            .welcome{
+                font-size: 50px;
+            }
+            .half-width{
+                width: 50%;
+                margin: 20px;
+            }
+            .Header{
+                font-size: 50px;
+            }
+            .half-width img{
+                width: 75%;
+                margin-left: 80px;
+            }
+            .top{
+                display: flex;
+                background-image: url(images/blue-bg.jpg);
+                background-repeat: no-repeat;
+            }
+            .order{
+                text-decoration: none;
+                background-image: linear-gradient(dodgerblue,deepskyblue);
+                border-radius: 10px;
+                font-weight: 400;
+                padding: 10px 40px;
+                color: white;
+                
+            }
+            .food{
+                font-size: 30px;
+                color: black;
+            }
+            .middle img{
+                width: 75%;
+            }
+            .meet{
+                color: crimson;
+            }
+            .nutrition{
+                text-decoration: none;
+                background-image: linear-gradient(rgba(231, 9, 53, 0.915),red);
+                border-radius: 10px;
+                font-weight: 400;
+                padding: 10px 40px;
+                color: white;
+            }
+            .lady img{
+                width: 130%;
+            }
+            .middle{
+                background-image: url(images/red-bg.jpg);
+                background-repeat: no-repeat;
+                background-position: right;
+            }
+            .recepie{
+                display: flex;
+                width: 40%;
+                margin-right: 5%;
+                margin-left: 5%;
+                padding: 20px;
+                box-shadow: 20px 20px 40px gray;
+                border-radius: 20px;
+                
+            }
+            .recepie img{
+                width: 30%
+                height 30%;
+            }
+            .recepie{
+                display: flex;
+                width: 40%;
+                margin-right: 5%;
+                margin-left: 5%;
+                padding: 20px;
+                box-shadow: 20px 20px 40px gray;
+                border-radius: 20px;
+                }
+                .recom{
+                    text-align: center;
+                }
+                #veg{
+                    border-left: 10px solid crimson;
+                }
+                #salad{
+                    border-left: 10px solid dodgerblue;
+                }
+                footer{
+                    text-align: center;
+                    font-weight: 700;
+                    margin-top: 50px;
+                }
+                
