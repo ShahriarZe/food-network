@@ -41,7 +41,7 @@
                 color: black;
             }
             .middle img{
-                width: 75%;
+                width: 65%;
             }
             .meet{
                 color: crimson;
@@ -73,12 +73,12 @@
                 
             }
             .recepie img{
-                width: 30%
-                height 30%;
+                width: 40%
+                height 40%;
             }
             .recepie{
                 display: flex;
-                width: 40%;
+                width: 30%;
                 margin-right: 5%;
                 margin-left: 5%;
                 padding: 20px;
