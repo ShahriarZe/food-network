@@ -62,6 +62,10 @@
                 background-repeat: no-repeat;
                 background-position: right;
             }
+            .last-part{
+                display: flex;
+                justify-content: center;
+            }
             .recepie{
                 display: flex;
                 width: 40%;
@@ -73,8 +77,7 @@
                 
             }
             .recepie img{
-                width: 40%
-                height 40%;
+               width: 100%;
             }
             .recepie{
                 display: flex;
